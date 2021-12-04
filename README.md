@@ -16,7 +16,7 @@
 
 ### ⚡️ Fun Facts:
 * I love gaming, mountain biking, and food
-* Baby Yoda enthusiast
+* Star Wars enthusiast
 * Undefeated at Rummikub
 
 ### Socials:
