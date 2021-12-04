@@ -20,7 +20,7 @@
 * Undefeated at Rummikub
 
 ### Socials:
-//* 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
+* 🔗 [LinkedIn]()
 * 💻 [Personal Site]
 * 💌 [Instagram](https://www.instagram.com/kristinafout/?hl=en)
 * 📬 Email: krisfout@gmail.com
