@@ -14,8 +14,7 @@
 ### Learning:
 * 🐍 Python
 
-### 
-* ⚡️ Fun Facts: 
+### ⚡️ Fun Facts: 
 
 ### Socials:
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
