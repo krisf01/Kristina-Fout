@@ -7,4 +7,4 @@
 ## Socials!
 * [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
 * [Personal Site]
-* [Email]: krisfout@gmail.com
+* Email: krisfout@gmail.com
