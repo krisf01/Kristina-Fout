@@ -17,7 +17,7 @@
 ### ⚡️ Fun Facts:
 * I love gaming, mountain biking, and food
 * Star Wars enthusiast
-* Undefeated at Mario Cart
+* Undefeated at mario kart
 
 ### Socials:
 * 🔗 [LinkedIn]()
