@@ -1,5 +1,5 @@
 ## Kristina Fout- @kristinafout
-### Hello! 👋🏼
+## Hello! 👋🏼
 📓 I'm currently a second-year college student studying Computer Science! <br>
 ### Involvement:
 * 🎉 AnitaB Grace Hopper Celebration: [GHC](https://ghc.anitab.org/)
@@ -13,6 +13,8 @@
 
 ### Learning:
 * 🐍 Python
+
+### 
 
 ### Socials:
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
