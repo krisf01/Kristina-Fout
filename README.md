@@ -10,6 +10,9 @@
 
 ## Skills:
 * 🌊 C/C++
+* Program Design/Data Structures and Algorithms
+* Object-Oriented Programming
+
 ## Learning:
 * 🐍 Python
 
