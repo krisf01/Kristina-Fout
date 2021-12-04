@@ -3,9 +3,8 @@
 ⚡️ 
 
 ## Involvement
-* AnitaB Grace Hopper Celebration
-* Girl UP
-* Friends of MESA
+* [AnitaB Grace Hopper Celebration](https://ghc.anitab.org/)
+* Mathematics, Engineering, Science, Achievement: [MESA](https://mesa.ucop.edu/)
 
 ## Socials
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
