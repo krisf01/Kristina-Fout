@@ -8,7 +8,7 @@
 * Mathematics, Engineering, Science, Achievement: [MESA](https://mesa.ucop.edu/)
 
 ## Skills:
-* C++ and some C
+* C/C++
 ## Learning:
 * 🐍 Python
 
