@@ -10,7 +10,7 @@
 
 ## Skills:
 * 🌊 C/C++
-* Program Design and Data Structures and Algorithms
+* Program Design and Data Structures
 * Object-Oriented Programming
 
 ## Learning:
