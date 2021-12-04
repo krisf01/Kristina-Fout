@@ -1,4 +1,5 @@
 ## Kristina Fout- @kristinafout
+### Hello! 👋🏼
 📓 I'm currently a second-year and last-year student at Diablo Valley College studying Computer Science.
 ⚡️ 
 
