@@ -14,7 +14,9 @@
 ### Learning:
 * 🐍 Python
 
-### ⚡️ Fun Facts: 
+### ⚡️ Fun Facts:
+* I love gaming, mountain biking, and Yelping
+* undefeated at rummikub
 
 ### Socials:
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
