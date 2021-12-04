@@ -16,8 +16,8 @@
 
 ### ⚡️ Fun Facts:
 * I love gaming, mountain biking, and food
-* Baby yoda enthusiast
-* Undefeated at rummikub
+* Baby Yoda enthusiast
+* Undefeated at Rummikub
 
 ### Socials:
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
