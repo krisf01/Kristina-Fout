@@ -6,6 +6,7 @@
 ## Involvement:
 * AnitaB Grace Hopper Celebration: [GHC](https://ghc.anitab.org/)
 * Mathematics, Engineering, Science, Achievement: [MESA](https://mesa.ucop.edu/)
+* 👩‍💻 WiCS
 
 ## Skills:
 * 🌊 C/C++
