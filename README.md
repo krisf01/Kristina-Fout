@@ -5,6 +5,6 @@
 
 
 ## Socials!
-* [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/).
+* [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
 * [Personal Site]
 * [Instagram](https://www.instagram.com/kristinafout/?hl=en)
