@@ -13,6 +13,7 @@
 
 ### Learning:
 * 🐍 Python
+* how to solve Leetcode problems
 
 ### ⚡️ Fun Facts:
 * I love gaming, mountain biking, and food
