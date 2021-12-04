@@ -15,7 +15,7 @@
 * 🐍 Python
 
 ### ⚡️ Fun Facts:
-* I love gaming, mountain biking, and Yelping
+* I love gaming, mountain biking, and food
 * undefeated at rummikub
 
 ### Socials:
