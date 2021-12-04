@@ -13,12 +13,11 @@
 
 ### Learning:
 * 🐍 Python
-* how to solve Leetcode problems
 
 ### ⚡️ Fun Facts:
 * I love gaming, mountain biking, and food
-* baby yoda enthusiast
-* undefeated at rummikub
+* Baby yoda enthusiast
+* Undefeated at rummikub
 
 ### Socials:
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
