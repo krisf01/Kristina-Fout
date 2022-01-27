@@ -20,7 +20,7 @@
 * Undefeated at Mario Kart
 
 ### Socials:
-* 🔗 [LinkedIn]()
+* 🔗 [LinkedIn](https://www.linkedin.com/in/kristina-f-66b0a8227/)
 * 💻 [Personal Site]
 * 💌 [Instagram](https://www.instagram.com/kristinafout/?hl=en)
 * 📬 Email: krisfout@gmail.com
