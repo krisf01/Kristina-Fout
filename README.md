@@ -7,9 +7,9 @@
 * 👩‍💻 Women in Computer Science: WiCS
 
 ### Skills:
-* 🌊 C/C++
-* Program Design and Data Structures
-* Object-Oriented Programming
+* C/C++
+** Program Design and Data Structures
+** Object-Oriented Programming
 * Assembly Language Programming and Computer
   Organization
 
