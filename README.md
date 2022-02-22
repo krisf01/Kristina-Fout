@@ -8,8 +8,8 @@
 
 ### Skills:
 * C/C++
-** Program Design and Data Structures
-** Object-Oriented Programming
+* Program Design and Data Structures
+* Object-Oriented Programming
 * Assembly Language Programming and Computer
   Organization
 
