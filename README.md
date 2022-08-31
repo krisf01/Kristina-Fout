@@ -1,6 +1,10 @@
 ## Kristina Fout- @kristinafout
 ## Hello! 👋🏼
 📓 I'm currently a third-year university student studying Computer Engineering! <br>
+
+### Experience:
+* Undergraduate Software Engineer Intern at Dell Technologies Secureworks <br>
+
 ### Involvement:
 * 🎉 AnitaB Grace Hopper Celebration: [GHC](https://ghc.anitab.org/)
 * 🔭 Mathematics, Engineering, Science, Achievement: [MESA](https://mesa.ucop.edu/)
