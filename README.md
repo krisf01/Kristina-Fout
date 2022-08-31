@@ -1,17 +1,18 @@
 ## Kristina Fout- @kristinafout
 ## Hello! 👋🏼
-📓 I'm currently a second-year college student studying Computer Science! <br>
+📓 I'm currently a third-year university student studying Computer Engineering! <br>
 ### Involvement:
 * 🎉 AnitaB Grace Hopper Celebration: [GHC](https://ghc.anitab.org/)
 * 🔭 Mathematics, Engineering, Science, Achievement: [MESA](https://mesa.ucop.edu/)
 * 👩‍💻 Women in Computer Science: WiCS
 
 ### Skills:
-* C/C++
-* Program Design and Data Structures
-* Object-Oriented Programming
 * Assembly Language Programming and Computer
   Organization
+* C/C++
+* GoLang
+* Program Design and Data Structures
+* Object-Oriented Programming
 
 ### Learning:
 * 🐍 Python
