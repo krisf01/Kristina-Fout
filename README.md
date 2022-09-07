@@ -8,7 +8,7 @@
 ### Involvement:
 * 🎉 AnitaB Grace Hopper Celebration: [GHC](https://ghc.anitab.org/)
 * 🔭 Mathematics, Engineering, Science, Achievement: [MESA](https://mesa.ucop.edu/)
-* 👩‍💻 Women in Computer Science: WiCS
+* 👩‍💻 Women in Computer Science: WiCS and Google Student Developer Club 
 
 ### Skills:
 * Assembly Language Programming and Computer
